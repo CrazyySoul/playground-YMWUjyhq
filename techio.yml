@@ -17,4 +17,4 @@ projects:
     # @[Code Editor Title]({"stubs": ["EditorFile1.java", "EditorFile2.java", ...], "command": "MyJUnitClass#myMethod"})
     # More details here: https://github.com/TechDotIO/java-maven3-junit4-runner
     #docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp java:7 javac Main.java
-    runner: techio/java-maven-runner:1.0.0
+    runner: techio/java-maven3-junit4-runner:1.1.4-java-8
