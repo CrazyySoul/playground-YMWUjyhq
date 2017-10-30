@@ -17,7 +17,7 @@ public class Main
              System.out.println(d2);
              
              Dessert d3 = new Crepe();
-             d3 = new Chocolat(d3);
+             d3 = new Chantilly(d3);
              System.out.println(d3);
      }
 }
