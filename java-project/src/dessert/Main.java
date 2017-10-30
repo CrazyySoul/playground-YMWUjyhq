@@ -1,6 +1,6 @@
 package dessert;
 
-import Dessert;
+import dessert.Dessert;
 
 //Classe principale de l'application.
 public class Main
